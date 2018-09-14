@@ -521,7 +521,7 @@
     <trans-unit id="172">
       <source>WINAPI_RegionSettings</source>
     </trans-unit>
-    <trans-unit id="173">
+    <trans-unit d4:value="1" id="173">
       <source>RS_SHORTDATEFORMAT</source>
     </trans-unit>
     <trans-unit d4:value="2" id="174">
